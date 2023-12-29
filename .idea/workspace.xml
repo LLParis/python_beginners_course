@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="845053a7-9a32-4759-88c5-33d550a99041" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/LESSON 01/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON 02/welcome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON 03/meaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LESSON 04/data_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="845053a7-9a32-4759-88c5-33d550a99041" name="Changes" comment="Work in progress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON 04/data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON 04/data_types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703838575277</updated>
       <workItem from="1703838577566" duration="1807000" />
-      <workItem from="1703840552399" duration="3673000" />
+      <workItem from="1703840552399" duration="4691000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -177,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703838717242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Work in progress">
+      <option name="closed" value="true" />
+      <created>1703868058462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703868058462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,12 +200,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Work in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work in progress" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_beginners_course$meaning.coverage" NAME="meaning Coverage Results" MODIFIED="1703867001575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 03" />
     <SUITE FILE_PATH="coverage/python_beginners_course$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1703865494202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 02" />
     <SUITE FILE_PATH="coverage/python_beginners_course$hello.coverage" NAME="hello Coverage Results" MODIFIED="1703864732431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 01" />
-    <SUITE FILE_PATH="coverage/python_beginners_course$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1703867677652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 04" />
+    <SUITE FILE_PATH="coverage/python_beginners_course$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1703875909984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 04" />
   </component>
 </project>
