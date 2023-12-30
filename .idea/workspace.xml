@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="845053a7-9a32-4759-88c5-33d550a99041" name="Changes" comment="Work in progress">
+      <change afterPath="$PROJECT_DIR$/LESSON 05/rps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LESSON 04/data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON 04/data_types.py" afterDir="false" />
     </list>
@@ -32,6 +33,7 @@
     "Python.data_types.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.meaning.executor": "Run",
+    "Python.rps.executor": "Run",
     "Python.welcome.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -45,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.data_types">
+  <component name="RunManager" selected="Python.rps">
     <configuration name="data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_beginners_course" />
       <option name="ENV_FILES" value="" />
@@ -115,6 +117,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="rps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_beginners_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LESSON 05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LESSON 05/rps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="welcome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_beginners_course" />
       <option name="ENV_FILES" value="" />
@@ -140,6 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rps" />
         <item itemvalue="Python.data_types" />
         <item itemvalue="Python.meaning" />
         <item itemvalue="Python.welcome" />
@@ -164,6 +190,7 @@
       <updated>1703838575277</updated>
       <workItem from="1703838577566" duration="1807000" />
       <workItem from="1703840552399" duration="6210000" />
+      <workItem from="1703879366050" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -214,7 +241,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_beginners_course$meaning.coverage" NAME="meaning Coverage Results" MODIFIED="1703867001575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 03" />
     <SUITE FILE_PATH="coverage/python_beginners_course$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1703865494202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 02" />
+    <SUITE FILE_PATH="coverage/python_beginners_course$rps.coverage" NAME="rps Coverage Results" MODIFIED="1703912213063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 05" />
     <SUITE FILE_PATH="coverage/python_beginners_course$hello.coverage" NAME="hello Coverage Results" MODIFIED="1703864732431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 01" />
-    <SUITE FILE_PATH="coverage/python_beginners_course$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1703877553969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 04" />
+    <SUITE FILE_PATH="coverage/python_beginners_course$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1703911191943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LESSON 04" />
   </component>
 </project>
